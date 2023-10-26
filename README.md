@@ -16,7 +16,7 @@ This web app is a simple currency converter built with React. It allows you to c
 
 1. Start the development server with `npm start`.
 
-2. Open your web browser and visit `http://localhost:3000` to access the Currency Converter app.
+2. Open your web browser and visit `http://localhost:<port>` to access the Currency Converter app.
 
 3. Enter the amount, select the source currency, and the target currency.
 
@@ -33,11 +33,8 @@ This web app is a simple currency converter built with React. It allows you to c
 
 ## Credits
 
-- This project uses exchange rate data from [Currency API](https://example.com/currency-api).
+- This project uses exchange rate data from [Currency API](https://github.com/fawazahmed0/currency-api).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
