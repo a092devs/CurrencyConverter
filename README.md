@@ -14,7 +14,7 @@ This web app is a simple currency converter built with React. It allows you to c
 
 ## Usage
 
-1. Start the development server with `npm start`.
+1. Start the development server with `npm run dev`.
 
 2. Open your web browser and visit `http://localhost:<port>` to access the Currency Converter app.
 
